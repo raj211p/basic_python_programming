@@ -12,7 +12,7 @@ Set 2
 2) Find the gravitational force acting on 2 objects.
 
 Set 3
-1) Replace each character in an array with the one whose ASCII code is 1 value higher than its own (mimics a substitution cipher).
+1) Replace each character in a string with the one whose ASCII code is 1 value higher than its own (mimics a substitution cipher).
 2) Convert an angle in degrees to the radian measure using the math library.
 3) Find the distance between 2 points on the Earth given their coordinates using the Haversine formula.
 4) Students in 3 classes (each with a certain number of students) must be grouped into groups as follows: class 1- 5 groups, class 2- 7 groups, class 3- 6 groups. All the remaining students form the last group. Find the individual group sizes.
