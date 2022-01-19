@@ -4,7 +4,7 @@ Program list:
 
 Set 1
 1) Calculate the area of a triangle.
-2) Convert a given temperature reading in C to F and F to C.
+2) Convert a given temperature reading in °C to °F and °F to °C.
 3) Find all the digits in a given number.
 
 Set 2
