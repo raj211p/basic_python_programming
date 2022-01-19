@@ -1,0 +1,6 @@
+G=6.67e-11; G=float(G)
+m1=float(input('M1: '))
+m2=float(input('M2: '))
+r=float(input('R: '))
+F=float((G*m1*m2)/r**2)
+print('Force on each object: ',F,' Newtons')
