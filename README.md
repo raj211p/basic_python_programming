@@ -29,10 +29,13 @@ Set 5
 Set 6
 
 1)Use recursion to find the smallest element in a list.
+
 2)Use recursion to find a^b.
+
 3)Use recursion to generate the Fibonacci sequence.
 
 Set 7
 
 1)Write a function to mimic the filter() function. Use it to remove every string that begins with a digit in a list of strings.
+
 2)Write a function to mimic the reduce() function. Use it to find the largest integer in a set of integers and their sum.
